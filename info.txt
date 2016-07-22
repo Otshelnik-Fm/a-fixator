@@ -1,7 +1,7 @@
 Name: (a) Fixator;
 Version: 1.0;
 Support Core: 15.0.0;
-Description: альфа-фиксатор. Дополнение позволит вам использовать css файл и файл функций без боязни их перезаписи. css в фронтенде поддерживает минификацию файлов от плагина WP-Recall. Файл функций позволит вписывать свои сниппеты кода;
+Description: альфа-фиксатор. Дополнение позволит вам использовать css файл и файл функций без боязни их перезаписи. css в фронтенде поддерживает минимизацию файлов от плагина WP-Recall. Файл функций позволит вписывать свои сниппеты кода;
 Author: Otshelnik-Fm;
 Author URI: https://codeseller.ru/author/Otshelnik-Fm/;
-Add-on URI: https://codeseller.ru/products/;
+Add-on URI: https://codeseller.ru/products/alpha-fixator/;
