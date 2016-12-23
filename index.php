@@ -18,7 +18,7 @@ function af_connect_front_style(){
         }
     }
 }
-add_action('rcl_enqueue_scripts','af_connect_front_style',10);
+add_action('rcl_enqueue_scripts','af_connect_front_style',50);
 
 
 // подключаем стили для админки
