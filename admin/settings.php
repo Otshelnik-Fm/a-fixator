@@ -20,6 +20,7 @@ function afix_set_setting($content){
                         'title'=>'Загружать css для админки:',
                         'slug'=>'afix_adm',
                         'values' => array('yes' => 'Да','no' => 'Нет'),
+                        'default' => 'yes',
                         'notice'=> 'По умолчанию: Да<br/><hr>',
                         'help'=> 'Файл a-fixator-admin.css будет загружаться в админке'
                     ),
@@ -28,6 +29,7 @@ function afix_set_setting($content){
                         'title'=>'Загружать css для фронтенда вверху сайта:',
                         'slug'=>'afix_head',
                         'values' => array('yes' => 'Да','no' => 'Нет'),
+                        'default' => 'yes',
                         'notice'=> 'По умолчанию: Да<br/><hr>',
                         'help'=> 'Файл a-fixator-front-header.css будет загружаться в фронтенде (лицевая часть сайта - не админка) в шапке (header) сайта'
                     ),
@@ -36,6 +38,7 @@ function afix_set_setting($content){
                         'title'=>'Загружать css для фронтенда внизу сайта:',
                         'slug'=>'afix_foot',
                         'values' => array('yes' => 'Да','no' => 'Нет'),
+                        'default' => 'yes',
                         'notice'=> 'По умолчанию: Да<br/><hr>',
                         'help'=> 'Файл a-fixator-front-footer.css будет загружаться в фронтенде (лицевая часть сайта - не админка) в подвале (footer) сайта'
                     ),
@@ -44,6 +47,7 @@ function afix_set_setting($content){
                         'title'=>'Загружать js для фронтенда:',
                         'slug'=>'afix_js',
                         'values' => array('yes' => 'Да','no' => 'Нет'),
+                        'default' => 'yes',
                         'notice'=> 'По умолчанию: Да',
                         'help'=> 'Файл a-fixator-front-js.js будет загружаться в фронтенде (лицевая часть сайта - не админка) в подвале (footer) сайта'
                     ),

@@ -78,6 +78,11 @@
 
 
 == Changelog ==
+= 2018-12-10 =
+v2.1
+* поддержка WP-Recall 16.17
+
+
 = 2018-03-29 =
 v2.0
 * Дополнение улучшено: один css файл (бывший a-fixator-front.css) в фронтенде упразднен. Но вместо него появилось два: 
@@ -121,4 +126,4 @@ v1.0
 * При возникновении проблемы, создайте соотвествующую тему на <a href="https://codeseller.ru/forum/product-12878/" target="_blank">форуме поддержки товара</a>
 * Если вам нужна доработка под ваши нужды - вы можете обратиться ко мне в <a href="https://codeseller.ru/author/otshelnik-fm/?tab=chat" target="_blank">ЛС</a> с техзаданием на платную доработку.
 
-Все мои работы опубликованы <a href="https://otshelnik-fm.ru/?p=2562" target="_blank">на моём сайте</a> и в каталоге магазина <a href="https://codeseller.ru/author/otshelnik-fm/?tab=publics&subtab=type-products" target="_blank">CodeSeller.ru</a>
+Все мои работы опубликованы <a href="https://otshelnik-fm.ru/?p=2562&utm_source=free-addons&utm_medium=addon-description&utm_campaign=a-fixator&utm_content=codeseller.ru&utm_term=all-my-addons" target="_blank">на моём сайте</a> и в каталоге магазина <a href="https://codeseller.ru/author/otshelnik-fm/?tab=publics&subtab=type-products" target="_blank">CodeSeller.ru</a>
